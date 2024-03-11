@@ -1,0 +1,2 @@
+Model,Estimators,max_features,R^2 score
+Random Forrest,1000,sqrt,0.554
